@@ -4,6 +4,7 @@
 
 <br/>
 - 💻 I'm currently learning everything Javascript related to frontend development.
+- 📚 I also enjoy devloping my professional growth by reading good books such as Atomic Habits by John Clear
 <br/> 
 - 🥅 2022 Goals: Contribute more to Open Source projects and get in-depth understanding of the ins-and-outs of complex Javascript frameworks.
 <br/>
