@@ -12,9 +12,6 @@
 <br/>
 - ⚡️ Fun fact: I am also an artist, you can check out my works on my [instagram]
 <br/>
-- 🎮 Brawlhalla and No man's sky are the top two games of all time. No debate.
-
-<br/>
 <br/>
 
 [starchyPirate77] : https://steamcommunity.com/profiles/76561198419841774
