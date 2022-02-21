@@ -1,6 +1,6 @@
 ### 👋 Hello world, I'm Hayford, aka [starchyPirate77]
 
-## I'm a Frontend Developer, Student and Avid Brawlhalla Player 🎮!
+## I'm a Frontend Developer,and Avid Brawlhalla Player 🎮!
 
 <br/>
 - 💻 I'm currently learning everything Javascript related to frontend development.
@@ -11,6 +11,7 @@
 - 👀 I'm currently looking to join a new team of creative designers and developers
 <br/>
 - ⚡️ Fun fact: I am also an artist, you can check out my works on my [instagram]
+- 🎮 Brawlhalla and No man's sky are the top two games of all time. No debate.
 
 <br/>
 <br/>
