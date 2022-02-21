@@ -1,6 +1,6 @@
 ### 👋 Hello world, I'm Hayford, aka [starchyPirate77]
 
-## I'm a Junior Frontend Developer, Student and Avid Brawlhalla Player 🎮!
+## I'm a Frontend Developer, Student and Avid Brawlhalla Player 🎮!
 
 <br/>
 - 💻 I'm currently learning everything Javascript related to frontend development.
