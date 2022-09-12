@@ -7,9 +7,3 @@
 - 📚 I also enjoy devloping my professional growth by reading good books such as Essentialism by Greg Mckewon
 <br/> 
 - 🥅 2022 Goals: Contribute more to Open Source projects and get in-depth understanding of the ins-and-outs of complex Javascript frameworks.
-<br/>
-- ⚡️ Fun fact: I am also an artist, you can check out my works on my [instagram]
-<br/>
-
-[starchyPirate77] : https://steamcommunity.com/profiles/76561198419841774
-[instagram] : https://www.instagram.com/hey._.ford
